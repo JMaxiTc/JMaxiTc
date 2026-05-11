@@ -11,7 +11,15 @@
 
 ###
 
-<p align="left"></p>
+<h2 align="left">Certificaciones y Cursos</h2>
+
+###
+
+<ul>
+  <li align="left"><b>AWS Cloud Practitioner Essentials & AWS Cloud</b> - Amazon Web Services</li>
+  <li align="left"><b>Scientific Computing with Python</b> - FreeCodeCamp (2024)</li>
+  <li align="left"><b>Introducción a la Ciberseguridad</b> - Cisco (En curso)</li>
+</ul>
 
 ###
 
